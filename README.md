@@ -362,3 +362,18 @@ tavily = TavilyClient(api_key=os.getenv("TAVILY_API_KEY"))
 Without Tavily, the Search Agent cannot perform live search.
 
 ---
+<img width="467" height="389" alt="Screenshot 2026-08-07 111405" src="https://github.com/user-attachments/assets/d2e2032d-617d-498e-8a9d-8dab429c0902" />
+<br>
+<img width="432" height="433" alt="Screenshot 2026-08-07 111421" src="https://github.com/user-attachments/assets/7c9f3fe8-afd8-4689-a569-88fff2ade2a7" />
+<br>
+<img width="425" height="419" alt="Screenshot 2026-08-07 111440" src="https://github.com/user-attachments/assets/84698425-c651-427e-a30e-8847b40ecea3" />
+<br>
+<img width="442" height="415" alt="Screenshot 2026-08-07 111455" src="https://github.com/user-attachments/assets/9dbbc735-4f1e-4284-98ac-2ad8d94e39a1" />
+<br>
+<img width="461" height="442" alt="Screenshot 2026-08-07 111509" src="https://github.com/user-attachments/assets/000d9f80-be77-41c4-9bd5-a2ccb54f238d" />
+
+
+
+
+
+
